@@ -3,7 +3,7 @@
 
 I build backend platforms where predictability is a feature. I specialize in failure isolation and low-latency performance, ensuring complex distributed systems remain stable across blockchain, cloud, and data environments.
 
-**Specialties:** Distributed Systems, Low-Latency Infrastructure, Blockchain Data Pipelines
+**Specialties:** Distributed Systems, Solution Architecture, Full-Stack Development, Low-Latency Infrastructure, Blockchain & RAG Data Pipelines
 
 ---
 
